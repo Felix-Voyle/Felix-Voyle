@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Felix-Voyle
 - 👀 I’m interested in gaming, sports and all things technology related.
-- 🌱 I’m currently learning HTML CSS and Javascript and in the middle of a course in full stack software development.
+- I've recently passed Code Institute's full stack software developer course
 - 📫 How to reach me - felix.voyle@icloud.com
 
 <!---
